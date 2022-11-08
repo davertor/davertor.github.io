@@ -1,8 +1,9 @@
-other_templates/
-posts/
-pages/
 images/fulls/
 images/old/
 images/thumbs/
+other_templates/
+posts/
+pages/
+
 
 **/*.db
